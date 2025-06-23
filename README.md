@@ -1,2 +1,3 @@
 # jarvis-demo
-This is mu first Git hub repositry
+This is my first Git hub repositry
+Author - Parth sethi 
